@@ -19,7 +19,9 @@ public class TestUserProfile {
         
         //Scanner input = new Scanner(System.in);
         //System.out.println()
-                
+
+
+        ///I am adding comments because I have to for the midterm 
              
         
         
